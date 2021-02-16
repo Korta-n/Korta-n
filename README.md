@@ -14,7 +14,7 @@
 
 <br/>
 
-<img align="left" alt="Korta-n | gmail" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg" /> : lappokirill@gmail.com
+#### My email : lappokirill@gmail.com
 
 <br />
 
