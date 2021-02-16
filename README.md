@@ -9,8 +9,9 @@
 ### Connect with me:
 
 [<img align="left" alt="Korta-n | Vk" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/vk.svg" />][vk]
-[<img align="left" alt="Korta-n | Vk" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/telegram.svg" />][telegram]
-[<img align="left" alt="Korta-n | Vk" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+[<img align="left" alt="Korta-n | telegram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/telegram.svg" />][telegram]
+[<img align="left" alt="Korta-n | linkedin" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+[<img align="left" alt="Korta-n | gmail" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg" />][gmail]
 
 <br/>
 
@@ -37,6 +38,6 @@
 <br />
 
 [vk]: https://vk.com/id_k_l
-[instagram]: https://instagram.com/codeSTACKr
+[gmail]: lappokirill@gmail.com
 [telegram]: https://t.me/kr_la
 [linkedin]: https://www.linkedin.com/in/kirill-lappo-9a9174204/
