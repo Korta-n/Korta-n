@@ -10,6 +10,7 @@
 
 [<img align="left" alt="Korta-n | Vk" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/vk.svg" />][vk]
 [<img align="left" alt="Korta-n | Vk" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/telegram.svg" />][telegram]
+[<img align="left" alt="Korta-n | Vk" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 
 <br/>
 
@@ -38,3 +39,4 @@
 [vk]: https://vk.com/id_k_l
 [instagram]: https://instagram.com/codeSTACKr
 [telegram]: https://t.me/kr_la
+[linkedin]: https://www.linkedin.com/in/kirill-lappo-9a9174204/
