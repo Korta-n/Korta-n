@@ -4,7 +4,7 @@
 
 -   💻 I’m currently learning everything
 -   👯 I’m looking to collaborate with expirienced developers to raise my skills
--   💰 Last work experience was at **datarockets** , on which was working as the Front-end developer
+-   💰 Last work experience was at **Rocketech** , on which was working as the Front-end engineer
 
 ### Connect with me:
 
