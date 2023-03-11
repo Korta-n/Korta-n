@@ -1,14 +1,7 @@
-### Hi there, I'm Kirill - aka Korta-n👋
-
-## I'm a Front-End developer with passion for coding and learning !!
-
--   💻 I’m currently learning everything
--   👯 I’m looking to collaborate with expirienced developers to raise my skills
--   💰 Last work experience was at **Rocketech** , on which was working as the Front-end engineer
+### Hey, I'm Kiril Lappo and I work as a Team Lead/Senior Frontend Engineer at BamBoo Group
 
 ### Connect with me:
 
-[<img align="left" alt="Korta-n | Vk" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/vk.svg" />][vk]
 [<img align="left" alt="Korta-n | telegram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/telegram.svg" />][telegram]
 [<img align="left" alt="Korta-n | linkedin" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 
@@ -18,7 +11,7 @@
 
 <br />
 
-### Languages and Tools:
+### Languages and Tools (Outdated Contact with me for more details):
 
 <img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />
 <img align="left" alt="HTML5" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />
@@ -37,6 +30,5 @@
 <br />
 <br />
 
-[vk]: https://vk.com/id_k_l
 [telegram]: https://t.me/kr_la
 [linkedin]: https://www.linkedin.com/in/kirill-lappo-9a9174204/
